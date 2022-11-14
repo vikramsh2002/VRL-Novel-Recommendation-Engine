@@ -1,10 +1,10 @@
-from turtle import onclick
+#from turtle import onclick
 import streamlit as st
 import joblib as jb
 import pandas as pd
 import webbrowser as wb
 
-from torch import matrix_power
+#from torch import matrix_power
 
 st.set_page_config(
         page_title="VRL Novel Recommender",
