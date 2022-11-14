@@ -51,7 +51,7 @@ def BuyButton(url):
 </style>
 </head>
     '''
-    a='<a href="{}">'.format(url)
+    a='<a href="{}"  target="_blank">'.format(url)
     
     buy_p2='''
     <button> Buy Now </button> </a> </body>
